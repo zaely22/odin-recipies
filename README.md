@@ -1,1 +1,2 @@
 # odin-recipies
+In my first project for the odin project im going to be making a rudimentry website to practice all newfound skills with html. It will have a main index page and a fews links to different recipes with pictures. It will wrap up and combine all the basics of html
